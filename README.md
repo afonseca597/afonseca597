@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @afonseca597
-- Hi my name is André Fonseca, i'm 38 years old and i from Lisbon, Portugal.
+- Hi my name is André Fonseca, i'm 39 years old and i from Lisbon, Portugal.
 - 👀 I’m interested in
 - programming, 
 - 🌱 I’m currently learning
-- i'm in the first year of computer engineering and i'm still looking around in thins new world that is computer engineering
+- i'm in the second year of computer engineering and i'm still looking around in thins new world that is computer engineering
 - 💞️ I’m looking to collaborate on
 - everything, i want to work and learn new things 
 - 📫 How to reach me
